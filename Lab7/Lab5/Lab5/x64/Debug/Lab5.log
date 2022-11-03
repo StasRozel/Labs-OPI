@@ -1,2 +1,5 @@
 ﻿  Lab5.cpp
+  Laters.cpp
+E:\Универ\Лабы ОПИ\Lab7\Lab5\Lab5\Laters.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
   Lab5.vcxproj -> E:\Универ\Лабы ОПИ\Lab7\Lab5\x64\Debug\Lab5.exe

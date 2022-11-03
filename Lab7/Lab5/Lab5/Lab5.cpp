@@ -5,7 +5,7 @@
 
 using namespace std;
 
-void task1() {
+void SymbolLatinKod() {
     char symbol;
     int difference = 0;
     cout << "Введите символ латинского алфавита:" << endl;
@@ -13,7 +13,7 @@ void task1() {
     Laters(symbol, difference, 65, 90,  97, 122);
 }
 
-void task2() {
+void SymbolRusKod() {
     char symbol;
     int difference = 0;
     cout << "Введите символ русского алфавита:" << endl;
@@ -66,8 +66,8 @@ int main(void) {
 
     setlocale(LC_CTYPE, ".1251");
     setlocale(LC_ALL, "Rus");
-    /*
-    task1();
+    
+    /*task1();
     task2();
     task3();
     task4();*/
