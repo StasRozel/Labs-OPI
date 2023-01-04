@@ -1,0 +1,3 @@
+﻿  Numbers system(lab12).cpp
+E:\Универ\Лабы ОПИ\Numbers system(lab12)\Numbers system(lab12)\Numbers system(lab12).cpp(13,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Numbers system(lab12).vcxproj -> E:\Универ\Лабы ОПИ\Numbers system(lab12)\x64\Debug\Numbers system(lab12).exe
